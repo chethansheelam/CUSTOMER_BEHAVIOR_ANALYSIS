@@ -1,4 +1,4 @@
-<img width="4872" height="2656" alt="500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654" src="https://github.com/user-attachments/assets/3fac8c9d-f815-4bef-afdd-78ad24ef1299" /><img width="4872" height="2656" alt="500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654" src="https://github.com/user-attachments/assets/30590319-500f-47a9-8fce-3b21dee52bb5" />👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+# Customer Behavior Data Analyst Portfolio Project  
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
@@ -24,8 +24,9 @@ Project Workflow
 🛠️ How to Use This Project
 1. Clone the repository
 
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI  
+git clone https://github.com/chethansheelam/CUSTOMER_BEHAVIOR_ANALYSIS.git
+cd CUSTOMER_BEHAVIOR_ANALYSIS
+
 2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
 This file contains:
